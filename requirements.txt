@@ -38,3 +38,4 @@ z3-solver<4.12.2.0,>=4.8.8.0
 matplotlib
 pre-commit<2.21.0
 certifi>=2020.06.20
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
